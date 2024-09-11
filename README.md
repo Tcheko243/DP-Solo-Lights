@@ -2,9 +2,10 @@
 
 DP Solo Lights est un plugin pour Cinema 4D qui permet d'isoler une lumière sélectionnée dans une scène 3D en éteignant toutes les autres lumières. Cette fonctionnalité est particulièrement utile lors de l'ajustement d'éclairage sans distraction. Il permet également de réactiver toutes les lumières en appuyant sur la touche Shift.
 
-Fonctionnalités
+##Fonctionnalités
 Isolation des lumières : Éteint toutes les lumières non sélectionnées dans la scène.
 Restauration des lumières : Appuyez sur la touche Shift pour rallumer toutes les lumières dans leur état d'origine.
+
 Compatibilité : Fonctionne avec les lumières standards de Cinema 4D, y compris celles des moteurs de rendu Arnold, Redshift, Octane, etc.
 
 
